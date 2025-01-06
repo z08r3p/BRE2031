@@ -1,23 +1,35 @@
 java c
-Subject: BRE2031 – Environmental   Science
-Tutorial   2 – Thermal   Effect   in   Buildings
-1.       A   cavity   wall   is   constructed   as   follows:   brickwork   outer   leaf   103   mm,   air   gap   50   mm,      expanded   insulation   board   60   mm,   high   performance   concrete   block   inner   leaf   100   mm,      lightweight   plasterboard   10 mm.    The   relevant   values   of   thermal   conductivity,   in   W/m.K,      are: brickwork   0.84, polystyrene   (insulation) 0.025, concrete   block   0.11, plasterboard   0.18.   The   standard   thermal   resistances, in   m2.K/W   are: outside   surface   0.06, inside   surface   0.12,      air   gap   0.18.    Calculate   the   U-value   of   this   wall.    (answer   for   reference: 0.26 W/m2.K)
-2.       The   cavity   wall   of   an   existing   house   has   outer   and   inner   brickwork   leaves   each   105   mm with   a   50   mm   air   gap   between   them,   finished   with   a   16   mm   layer   of   plaster   inside.      The relevant   values   of   thermal   conductivity, in   W/m.K   are: brickwork   0.73, plaster   0.46.      The standard   thermal   resistances,   in   m2.K/W,   are:   outside   surface   0.055,   inside   surface   0.123,   air   gap   0.18.
-(a)   Calculate   the   U-value   of   the   existing   wall. (1.47 W/m2.K)
-(b)   Calculate   the   U-value   of   the   wall   if   the   cavity   is   completely   filled   with   foamed   urea formaldehyde   (k = 0.026 W/m.K)          (0.41 W/m2.K)
-3.       Compare   the   U-values   of   a   single-glazed   window   made   up   of   one   sheet   of   4mm   glass   with a   double-glazed   window   made   up   of   two   sheets   of   4mm   glass   which   have   a   5   mm   airspace between   them.       The      thermal      conductivity   of   the   glass   is      1.022    W/m.K.       The      standard thermal   resistances,   in   m2.K/W,   are:   outside   surface   0.06,   inside   surface   0.12,   airspace 0.11.    Determine   the   proportion   of   the   thermal   resistance   provided   by   the   glass   layers.
-4.       A   blockwork   wall   measures   5m   x   2.8m   in   overall   length   and   height.       The   wall   contains one   window   1400   mm   by   800mm   and   one   door   1900mm   by   750mm.      The   U-values,   in W/m2.K, are   blockwork   0.58, window   5.6, door   3.4.      Calculate   the   average   U-value   of   this wall.       (1.27 W/m2.K)
-5.       A wall panel is to have the following construction: outer metal sheeting, foamed polyurethane   board,   air-gap,   and   15mm   of   lining   board.      The   代 写BRE2031 – Environmental Science Tutorial 2 – Thermal Effect in BuildingsProlog
-代做程序编程语言relevant   values   of   thermal conductivity,   in   W/m.K,   are   polyurethane   board   0.025,   and   lining   board   0.16   (the   metal sheet   is   ignored).    The   standard   thermal   resistances,   in   m2.K/W,   are:   outside   surface   0.06,   inside   surface   0.12, air-gap   0.18.    Calculate   the   minimum   thickness   of   polystyrene   needed to   give   the   wall   panel   a   U-value   of   0.35 W/m2.K.      (60mm)
-6.       Consider   a   large   plane   wall   of   thickness   L=0.4m, thermal   conductivity   k   = 2.3   W   /   (m   .   K   )   and   surface   area   A=30m2.    The   left   side   (surface)   of   the   wall   is   maintained   at   a   constant temperature   of   T1    =   90oC   while   the   right   side   loses   heat   by   convection   to   the   surrounding air   (T∞   = 25oC) with   aheat   transfer   coefficient   of   h   = 24W /   (m2      .   K)   .    Assuming   constant thermal conductivity and no heat generation in the wall,   determine   the   rate   of heat transfer   through   the   wall.    (reference   answer:   9045.9W )
-7.       One   side   of   a   room   consists   of   a   window   with   an   area   of   2m2,   a   door   with   an   area   of   3m2,   and   wall   with   an   area   of   15m2    (excluding   the   window   and   door).   The   indoor   and   outdoor air   temperatures   are   18oC   and   0oC,   respectively.      The   rates   of heat   transmission   through   the   window   and   the   door   are   found   to   be   90W/m2    and   54W/m2,   respectively.      If   the   rate   of heat   transmission   through   the   whole   construction   (including   the   window,   door   and   the   wall) is   882W, determine   the   U-value   of   the   wall   (15m2).                                                                (answer: 2W/m2.K)
-8.       In   a   summer   day,   the   outdoor   air   temperature   is   35oC   while   the   indoor   air   temperature   is maintained   at   25oC.    The   rate   of   heat   flow   from   the   outdoor   air   to   the   indoor   air   is   through a   wall   with   surface   area   of   20m2    is   400W.       If   insulation   board   is      added   to   the   wall   to reduce   the   rate   of   heat   flow   through   the   wall   to   100W,   what   minimum   thickness   of   this board      is      needed?             Given      that         the      thermal         conductivity      of      the         insulation      board         is k = 0.1 W /   (m   .   K   )   .                (reference   answer:   0.15m)
+Subject: BRE2031 – Environmental Science
+Tutorial 3:Thermal Comfort and Thermal Load Estimation
+1.       The ventilation heat loss   can be   determined   by:       Is   this   expression   used   for sensible heat loss or   latent heat   loss?
+2.       List 5 parameters that affect thermal comfort   and   explain how they   affect   thermal   comfort.   List and explain 4 types of   local   thermal   discomfort.
+3.       What is thermal load? Give 3   examples   of   thermal load.
+4.       The   external   wall   of   a   room   measures   4.8m   by   2.6m   and   has   an   average   age   U-value   1.8W/m2   K. the indoor   air temperature is 21oC,   the   mean   radiant   temperature   is   18   oC,   and   the outdoor air   temperature   is   0   oC.
+(a)   Calculate the environmental temperature inside the room.   (19oC)
+(b)   Use   the   environmental   temperature   to   calculate   the   rate   of heat   loss   through   the   wall.   (427W)
+5.      A   house   has   a   floor   area   of 92   m2      and   a   ceiling   height   of 2.5m.   The   average   indoor   air   temperature is kept at 18    oC, the outdoor air temperature is 6    oC,      and    the      average   infiltration rate is   1.5 air changes per hour.   The volumetric   specific heat   capacity   of   the   air   is   1300 J/m3K.
+(a)   Calculate the rate of   ventilation heat loss.   (1495W)
+(b)   Calculate   the   cost   of the   heat   energy   lost   during   24   hours   if the   above   conditions   are   maintained and replacement heat cost 7 pence per mega-joule. (904 pence)
+6.      A   sports pavilion   has   internal   dimensions   of   11m×4m×3m   high.   20   percent   of the   wall   area   is   glazed   and the   doors   have   a total   area   of 6m2.   The U-values   in   W/m2      K   are: walls   1.6,    windows    5.5,    doors      2.5,      roof      1.5,      and      floor      0.8.      The      indoor      air      temperature      is   maintained   at   18   oC   when   the   outdoor   air   temperature   is   -2   oC.   There   are   four   air   changes   per   hour   and   the   volumetric   specific   heat   capacity   of air   is    1300   J/m3K.   The   heat   gains   total 2200W.
+(a)   Calculate the net rate of   heat los代 写BRE2031 – Environmental Science Tutorial 3:Thermal Comfort and Thermal Load Estimation
+代做程序编程语言s from this building.   (8030W)
+(b)   Calculate the surface area of   the radiators required to maintain the   internal   temperature under   the   above    conditions.    The    output   of   the   radiators    is   440   W/m2 of   radiating   surface area.   (18.25m2)
+7.      A room has   7.5m2    area   of single-glazed windows,   which   have   a   U-value   of 5.6W/m2K.   It is proposed to   double-glaze the windows   and   reduce   the   U-value   to   3.0   W/m2K.   During   a   33-week heating season, the average temperature   difference across the   windows   is   7 oC.
+(a)   For   both   types of   glazing, calculate the   total   heat loss during the   heating season.   (5.868GJ; 3.144GJ)
+(b)   Obtain   current   figures   for   the   cost   of   electrical   energy   and   the   approximate   cost   of   double   glazing   windows.   Estimate   the   number   of years   required    for   the   annual   fuel   saving to pay for the cost   of   the   double   glazing.
+8.       The   average rates of   heat loss for   a   particular   house   are   1580W   total   fabric   loss   and   870W   ventilation   loss.   The   seasonal heat   gains of   the house total 27   500   MJ.   The   fuel   used   has   a   calorific value of   32 MJ/kg and the heating system has an   overall   efficiency   of   75%.
+(a)   Calculate the input heat required during a heating season   of   33   weeks.   (21.398GJ)   (b)   Calculate   the   mass   of   fuel   required   to   supply   one   season’sheating.   (892 kg)
+Formula：
+Indoor   environmental   temperature   tei
 
-
-
-
-
-
-
-         
+Where –                            tei   =indoor environmental   temperature   (oC);   tr   =mean   radiant   temperature   (oC);   tai   =indoor air temperature   (oC)
+Fabric heat   loss      
+                      
+Where –                            Pf      =rate of   fabric heat   loss   (W);   U=U-value   (W/m2   K)   A=area of that element (m2); △t=temp difference   (℃)
+Ventilation   loss
+   
+where
+Pv   =rate of ventilation heat loss   (W);cv   =volumetric specific heat capacity of air   (J/m3   K)
+N=air change rate   (number of complete air changes   per hour) V=volume of the room   (m3);△t=temp difference   (oC)
+            
 加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
